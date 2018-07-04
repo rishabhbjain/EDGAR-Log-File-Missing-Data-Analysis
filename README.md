@@ -9,9 +9,9 @@ available to the public via the Internet (Web or FTP).
 
 # Docker Commands
 
-**_Command to pull docker image_**<br><br>
+**_Command to pull docker image :_**<br><br>
 docker pull rishabhjain27/edgarlogdataset:1.0<br><br><br>
-**_Command to run docker image_**<br><br>
+**_Command to run docker image :_**<br><br>
 docker run rishabhjain27/edgarlogdataset:1.0 python3 edgarlog.py yr=2010 accessKey=**<aws_accessKey>** secretKey=**<aws_accessKey>** location=us-east-1
 <br><br><br>
 
