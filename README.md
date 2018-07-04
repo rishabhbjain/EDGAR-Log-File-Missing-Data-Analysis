@@ -6,7 +6,7 @@ by law to file forms with the **U.S. Securities and Exchange Commission** (the "
 available to the public via the Internet (Web or FTP).
 
 # Details
-The EDGAR Log File Data Set [https://www.sec.gov/data/edgar-log-filedata-set.html ] is analyzed and a pipeline is developed which gets data for the first day of every month(by programmatically generating the url http://www.sec.gov/dera/data/Public-EDGAR-log-file-data/2003/Qtr1/log20030101.zip for Jan 2003 for example ) in given year and for processing the file to -<br>
+The EDGAR Log File Data Set [https://www.sec.gov/data/edgar-log-filedata-set.html ] is analyzed and a pipeline is developed which gets data for the first day of every month(by programmatically generating the url http://www.sec.gov/dera/data/Public-EDGAR-log-file-data/2003/Qtr1/log20030101.zip for Jan 2003 for example ) in given year and for processing the file to -
 * Handle missing data<br>
 * Compute summary metrices<br>
 * Check for observed anomalies<br>
