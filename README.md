@@ -1,4 +1,4 @@
-# EDGAR_Log_File_Missing_Data_Analysis
+# EDGAR Log File Missing Data Analysis
 
 **EDGAR**, the **Electronic Data Gathering, Analysis, and Retrieval** system, performs automated collection,
 validation, indexing, acceptance, and forwarding of submissions by companies and others who are required
